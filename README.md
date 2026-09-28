@@ -93,3 +93,6 @@ Feel free to open an issue or submit a pull request on the [Issue Tracker](https
 
 This project is licensed under the **Mozilla Public License 2.0 (MPL-2.0)**. See the [LICENSE](LICENSE) file for details.
 
+---
+
+More projects at [uam.lol](https://uam.lol)
